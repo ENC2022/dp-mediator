@@ -20,7 +20,7 @@ Patrón conductual
 
 Mediante la implementación del patrón de diseño Mediator desarrollaremos una aplicación modular, la cual tendrá como punto central un Mediador, que funcionará como punto central de comunicación entre todos los módulos, eliminando la dependencia directa que existe entre los módulos para el funcionamiento.
 
-Simularemos un conjunto de módulos que procesen ventas por internet, el proceso se muestra a continuación:
+Simularemos un conjunto de módulos que procesen ventas por Internet, el proceso se muestra a continuación:
 
 ![image](https://user-images.githubusercontent.com/55771796/174451793-882b5511-ce53-461d-b090-5e05463fc19b.png)
 
